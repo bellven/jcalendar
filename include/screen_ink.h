@@ -1,3 +1,10 @@
+#define BUSY_PIN GPIO_NUM_4
+#define RES_PIN  GPIO_NUM_13
+#define DC_PIN   GPIO_NUM_14
+#define CS_PIN   GPIO_NUM_27
+#define SCLK_PIN GPIO_NUM_26
+#define MOSI_PIN GPIO_NUM_25
+
 int si_calendar_status();
 void si_calendar();
 
