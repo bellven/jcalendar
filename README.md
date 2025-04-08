@@ -176,9 +176,6 @@ A: 3月1日后注册的和风天气账户有API Host限制，请下载1.0.25以�
 ## License
 此项目使用GNU General Public License v3.0许可证授权。详情请参阅LICENSE文件。
 
-### ★★★固件还不错，支持一下★★★
-<img src="./assets/img/buymeacoffee.jpg" width="32.9%">
-<img src="./assets/img/likeit.jpg" width="30%"><br>
 
 ## Reference:
 1. \<WEMOS LOLIN32簡介\> https://swf.com.tw/?p=1331&cpage=1
